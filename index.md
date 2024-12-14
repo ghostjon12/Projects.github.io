@@ -16,7 +16,7 @@ layout: default
   ![Screenshot 2024-12-14 163031](https://github.com/user-attachments/assets/dac90af1-30c0-4bef-932d-dbc934f8eeae)
 
 # Controls Assessment
-
+[Google Doc](./another-page.html)
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
