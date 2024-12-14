@@ -19,6 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 SecurityEvent
 | where Activity contains "success" and Account !contains "system"
 ```
+
 # Controls Assessment
 
 > This is a blockquote following a header.
